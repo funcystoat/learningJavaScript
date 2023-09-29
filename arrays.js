@@ -4,7 +4,9 @@ let students = [    "Steven",
                     "Jay",
                     "Sharon",
                     "Delia",
-                    "Elliot"    ];
+                    "Elliot",    
+                    "Billy"
+                ];
 
 
 for(let i = 0; i < students.length; i++)
